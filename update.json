@@ -1,0 +1,8 @@
+{
+  "updated": {
+    "version": "V1.0.1",
+    "idfile": "16aK9qOxmx0AlUNcmSTndykl6HRPCR__X",
+    "listfiles": ".config/info.json:update.exe:.config/tutorial_active.txt:.config/tutorial_load.txt:.config/tutorial_mode.txt:.config/tutorial_render.txt:.config/tutorial_trans.txt:.config/tutorial_voice.txt:options.ini",
+    "whatnew": "- Cập nhập % tải xuống model vse\n- Fix giới hạn tối thiểu 3 ký tự FPT\n- Cập nhập % khi render"
+  }
+}
