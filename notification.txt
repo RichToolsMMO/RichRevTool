@@ -1,1 +1,6 @@
-ĐÂY LÀ BẢN NÂNG CẤP V 1.0.6
+CÓ GÌ MỚI TRONG BẢN NÂNG CẤP V 1.0.6:
+✴️ Tách lần lượt nhiều file video với tách sub cứng
+✴️ Fix lỗi giảm chất lượng video đầu ra
+✴️ Thêm ngôn ngữ Campuchia
+✴️ Fix lỗi dịch bằng CHATGPT
+✴️ Giữ lại âm thanh gốc khi render
