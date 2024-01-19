@@ -1,8 +1,8 @@
 {
   "updated": {
-    "version": "V1.0.6",
-    "idfile": "16aK9qOxmx0AlUNcmSTndykl6HRPCR__X",
+    "version": "V1.0.6.1",
+    "idfile": "1k0vzMkKf6e_WGUHoxaf2UdK3eTWd0FMs",
     "listfiles": ".config/info.json:.config/tutorial_active.txt:.config/tutorial_load.txt:.config/tutorial_mode.txt:.config/tutorial_render.txt:.config/tutorial_trans.txt:.config/tutorial_voice.txt",
-    "whatnew": "...."
+    "whatnew": "✴️ Tách lần lượt nhiều file video với tách sub cứng\n✴️ Fix lỗi giảm chất lượng video đầu ra\n✴️ Thêm ngôn ngữ Campuchia\n✴️ Fix lỗi dịch bằng CHATGPT\n✴️ Giữ lại âm thanh gốc khi render"
   }
 }
