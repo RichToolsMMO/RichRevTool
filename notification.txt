@@ -4,3 +4,5 @@ CÓ GÌ MỚI TRONG BẢN NÂNG CẤP V 1.0.6:
 ✴️ Thêm ngôn ngữ Campuchia
 ✴️ Fix lỗi dịch bằng CHATGPT
 ✴️ Giữ lại âm thanh gốc khi render
+✴️ Fix lỗi âm thanh và nội dung không trùng khớp
+✴️ Tăng tốc độ giọng đọc mặc định GG voices
