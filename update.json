@@ -1,8 +1,8 @@
 {
   "updated": {
     "version": "V1.0.6.1",
-    "idfile": "1DAxJFb_O08IWi-NAPqvbZeHtmJgKBFxf",
+    "idfile": "1rVkc1X796_CV3kuN_pFTwMiEWNPAmAIJ",
     "listfiles": ".config/info.json:.config/tutorial_active.txt:.config/tutorial_load.txt:.config/tutorial_mode.txt:.config/tutorial_render.txt:.config/tutorial_trans.txt:.config/tutorial_voice.txt",
-    "whatnew": "✴️ Thêm nhà cung cấp Voices VoicalWare\n✴️ Fix lỗi Vse khi vẽ khoang"
+    "whatnew": "✴️ Thêm nhà cung cấp Voices VoicalWare\n✴️ Fix lỗi Vse khi vẽ khoang\n✴️ Sử dụng GPU (nvidia) cho tách phụ đề âm thanh"
   }
 }
