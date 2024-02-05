@@ -1,5 +1,12 @@
-CÓ GÌ MỚI TRONG BẢN NÂNG CẤP V 1.0.6.1:
-✴️ Sửa lỗi sử dụng GPU cho Tách Sub âm thanh
-✴️ Thêm nhà cung cấp Vocalware
-✴️ Fix lỗi vẽ tọa độ trong tách sub văn bản cứng
-==> LƯU Ý: TRƯỚC KHI UPDATE AE 'LƯU LẠI' CÁC KEY 'API VOICE' VÀ BAIDU, OPENAI NẾU CÓ NHÉ! UPDATE XONG XÓA FOLDER 'vse' và 'whisper'. CHẠY LẠI TOOL VÀ TẢI LẠI 2 TRÌNH TÁCH SUB BẰNG VĂN BẢN VÀ Â THANH!
+THÔNG BÁO LỊCH NGHỈ TẾT:
+
+✴️✴️✴️ Lời đầu tiên, RichTools-MMO xin trân thành cảm ơn MỌI NGƯỜI đã tin tưởng và lựa chọn sử dụng tool của bên mình trong thời gian qua ✴️✴️✴️
+Năm mới tết đến, chúng mình xin thông báo lịch nghỉ tết như sau:
+
+==> TẠM NGHỈ DÙNG THỬ TOOL: BẮT ĐẦU TỪ 5/02/2024.
+==> TẠM NGHỈ HỖ TRỢ TOOL: BẮT ĐẦU TỪ 6/02/2024.
+==> RICHTOOLS SẼ HOẠT ĐỘNG TRỞ LẠI VÀO NGÀY 15/02/2024.
+
+Kính chúc Quý khách hàng có một dịp nghỉ lễ vui vẻ và an toàn, kiếm được nhiều xèng trong năm mới^^
+Xin chân thành cảm ơn!
+
