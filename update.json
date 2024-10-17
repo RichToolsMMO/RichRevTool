@@ -1,6 +1,6 @@
 {
   "updated": {
-    "version": "V1.0.6.3",
+    "version": "V1.0.8",
     "idfile": "",
     "listfiles": ".config/info.json:.config/tutorial_active.txt:.config/tutorial_load.txt:.config/tutorial_mode.txt:.config/tutorial_render.txt:.config/tutorial_trans.txt:.config/tutorial_voice.txt",
     "whatnew": ""
