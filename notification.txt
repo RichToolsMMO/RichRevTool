@@ -1,10 +1,9 @@
-ĐÂY LÀ BẢN CẬP NHẬP MỚI V1.0.8:
+ĐÂY LÀ BẢN CẬP NHẬP MỚI V1.0.11:
 
 CÓ GÌ MỚI TRONG PHIÊN BẢN NÀY:
-🌟 Fix lỗi tốc độ mở tool và tốc độ tải âm thanh của 1 số máy.
-🌟 Thêm API nền tảng YesCale.One (FULL API OPENAI, CLAUDE3 GIÁ RẺ)
-🌟 Tăng tốc độ load hình ảnh khi tách phụ đề
-🌟 Tích hợp proxy các mục tải âm thanh và dịch phụ đề
+🌟 Fix lỗi đăng ký tài khoản và sử dụng tài khoản.
+🌟 Thêm Module tách phụ đề (sub cứng) nhanh và chính xác hơn
+🌟 Hạn chế lỗi trong quá trình render
 ...
 và nhiều nâng cấp khác!!!!
 
